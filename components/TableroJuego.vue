@@ -155,7 +155,7 @@ onBeforeUnmount(() => {
     <div class="interfaz-superior">
       <h1>AJEDREZ 3D</h1>
       <div class="decoracion-linea"></div>
-      <p class="clase-info">Sistemas SSR | Tarea 2</p>
+      <p class="clase-info">Sistemas CSR | Tarea 2</p>
     </div>
 
     <div ref="contenedor3D" class="visor"></div>
